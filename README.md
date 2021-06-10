@@ -32,7 +32,7 @@ Step 7: Check for the correlation with the feature columns and plot the heat map
 Step 8: Deal with the categorical data as ML models require numerical data as input and get rid of the features which are not relevant.\
 Step 9: Create the feature set and target column spit. And make the test train split of the data.\
 Step 10: Build and fit various regression models to get the best fitting model.\
-Step 11: Verify the models with the test data and evaluate the model based on the factors like R2 score, RSME etc.\
+Step 11: Verify the models with the test data and evaluate the model based on the factors like R2 score, RMSE etc.\
 Step 12: Make the recommendations based on the findings.
 
 ***These visualisations give the idea of total sales as pet the fat content, type of outlets and outlet size.It will help us in giving the suggestions based on the analysis.***
@@ -58,6 +58,20 @@ Step 12: Make the recommendations based on the findings.
 
 ![Unknown-14](https://user-images.githubusercontent.com/31748299/121501235-e5efb700-c993-11eb-8be2-68e0f10d8744.png)
 
+
+After we looked through the visualisations, we split the data into testing and training data.
+
+We tested by fitting various models of regression to the data and evaluated all the models to get the best fitted model out of these.
+
+Models tested:
+1. Linear Regression\
+2. Nearest Neighbor\
+3. Random Forest\
+4. Bagged Tree\
+
+Best Model was:
+
+***Recommendations:***
 
 
 
