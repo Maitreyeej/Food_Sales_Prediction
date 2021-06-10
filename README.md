@@ -71,10 +71,18 @@ Models tested:
 
 Best Model was:**Random Forest Regression**
 
+***This plot is the Feature Importance plotted for Random Forest Regression***
+
+![Unknown-16](https://user-images.githubusercontent.com/31748299/121573736-6f29dc80-c9da-11eb-8f62-804189b68ca7.png)
+
+
 ***Recommendations:***
 1. From the data and visualisations, it is seen that products with 'Low Fat' Content generate more revenue than Regualr. It is recommended that if the numebr of products with Lower Fat content are increases, overall sales would go up.
-2. 
-3. 
+2. Item Visibility is another factor which boosts the sales of the items. It would help if visibility of the low selling items is increased and it will be interesting to see if the sales increase for those items. 
+3. The factor that affects the most is the MRP of the item. MRP for some of the items can be increased to generate more sales. If the MRP is increased slightly, without causing the significant jump, it would not directly affect the consumer but in the long run, will give you more sales.
+4. 
+
+
 
 
 
