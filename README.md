@@ -35,7 +35,12 @@ Step 10: Build and fit various regression models to get the best fitting model.\
 Step 11: Verify the models with the test data and evaluate the model based on the factors like R2 score, RSME etc.\
 Step 12: Make the recommendations based on the findings.
 
-***These visualisations give the idea of total sales as pet the fat content and outlet size.***
+***These visualisations give the idea of total sales as pet the fat content, type of outlets and outlet size.It will help us in giving the suggestions based on the analysis.***
 ![Unknown-10](https://user-images.githubusercontent.com/31748299/121499188-00289580-c992-11eb-8f5c-d52288bf1302.png)
 
 ![Unknown-11](https://user-images.githubusercontent.com/31748299/121500007-c1470f80-c992-11eb-9e2a-ee321046f808.png)
+
+![Unknown-12](https://user-images.githubusercontent.com/31748299/121500437-23077980-c993-11eb-88c9-ea7acb138bad.png)
+
+
+
