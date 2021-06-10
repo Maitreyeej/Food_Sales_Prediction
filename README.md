@@ -69,9 +69,12 @@ Models tested:
 3. Random Forest\
 4. Bagged Tree\
 
-Best Model was:
+Best Model was:**Random Forest Regression**
 
 ***Recommendations:***
+1. From the data and visualisations, it is seen that products with 'Low Fat' Content generate more revenue than Regualr. It is recommended that if the numebr of products with Lower Fat content are increases, overall sales would go up.
+2. 
+3. 
 
 
 
