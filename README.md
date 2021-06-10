@@ -35,4 +35,4 @@ Step 10: Build and fit various regression models to get the best fitting model.\
 Step 11: Verify the models with the test data and evaluate the model based on the factors like R2 score, RSME etc.\
 Step 12: Make the recommendations based on the findings.
 
-
+![Unknown-10](https://user-images.githubusercontent.com/31748299/121499188-00289580-c992-11eb-8f5c-d52288bf1302.png)
