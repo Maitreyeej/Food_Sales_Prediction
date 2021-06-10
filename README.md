@@ -44,9 +44,19 @@ Step 12: Make the recommendations based on the findings.
 ![Unknown-12](https://user-images.githubusercontent.com/31748299/121500437-23077980-c993-11eb-88c9-ea7acb138bad.png)
 
 
-***These are the visualisations of the histograms for numerical data to understand the distribution.***
+***These are the visualisations of the histograms for numerical data to understand the distribution. Outlet Establishment year shows that there were not a lot of outlet established in some years.***
 
 ![Unknown-13](https://user-images.githubusercontent.com/31748299/121500615-534f1800-c993-11eb-9b11-e6b648ac9e19.png)
+
+
+***This visualisation gives the idea on the correlation between the fetures in the data. Based on this we can decide if some columns can dropped.***
+
+![Unknown-14](https://user-images.githubusercontent.com/31748299/121501235-e5efb700-c993-11eb-8be2-68e0f10d8744.png)
+
+
+***This visulaisation gives the idea of the number of outlets established in the year.***
+
+![Unknown-15](https://user-images.githubusercontent.com/31748299/121502013-9b226f00-c994-11eb-859f-05ef44e22c17.png)
 
 
 
